@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya Teotia</h1>
-<h3 align="center">Exploring the Depths of natural language processing</h3>
+<h3 align="center">Exploring the Depths of Natural Language Processing</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
